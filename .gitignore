@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.pyc
+entregas/*.zip
+.env
+.env.*
+!.env.example
+agendamento/estado/
