@@ -65,3 +65,10 @@ Prepare antes para a sobremesa estar pronta à noite. Salve para fazer no próxi
 Versão editorial da combinação clássica. Não testada em cozinha; tempo de geladeira pode variar.
 
 Imagens ilustrativas geradas por IA com referência do avatar da marca.
+
+
+## Página 5 — Encerramento
+
+Me siga para receber mais conteúdo como esse
+
+@lardakel1302

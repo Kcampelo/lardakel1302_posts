@@ -66,3 +66,10 @@ Sugestão editorial; não é alegação de tendência ou teste pessoal.
 Receita editorial; confira instruções da marca de flocão. Tempo estimado.
 
 Imagens ilustrativas geradas por IA com referência do avatar da marca.
+
+
+## Página 5 — Encerramento
+
+Me siga para receber mais conteúdo como esse
+
+@lardakel1302

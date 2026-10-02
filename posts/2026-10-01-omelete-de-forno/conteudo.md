@@ -67,3 +67,10 @@ Salve para aquele dia em que decidir o jantar já parece trabalho demais!
 Receita adaptada editorialmente; não testada em cozinha. Referência para técnica e ponto de cocção, não reprodução da receita.
 
 Imagens ilustrativas geradas por IA com referência do avatar da marca.
+
+
+## Página 5 — Encerramento
+
+Me siga para receber mais conteúdo como esse
+
+@lardakel1302

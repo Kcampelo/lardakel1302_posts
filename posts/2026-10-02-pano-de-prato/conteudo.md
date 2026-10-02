@@ -63,3 +63,10 @@ Salve e compartilhe com quem divide a cozinha com você.
 
 
 Imagens ilustrativas geradas por IA com referência do avatar da marca.
+
+
+## Página 5 — Encerramento
+
+Me siga para receber mais conteúdo como esse
+
+@lardakel1302
