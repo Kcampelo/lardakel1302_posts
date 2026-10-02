@@ -1,0 +1,250 @@
+{
+  "enabled": true,
+  "activated_at": "2026-10-02T13:29:28.775930+00:00",
+  "timezone": "America/Sao_Paulo",
+  "media_commit": "485183783957949bbf75627b41ee7e05cefd4e77",
+  "jobs": [
+    {
+      "id": "2026-10-01-0600-dica",
+      "scheduled_at": "2026-10-01T06:00:00-03:00",
+      "enabled": false,
+      "theme": "Sua cadeira virou cabide?",
+      "format": "CAROUSEL",
+      "caption": "A cadeira não pediu esse cargo de guarda-roupa auxiliar! 😂 Escolha um lugar fácil para chaves, bolsa e sapatos. Ao chegar, esvazie as sacolas e dê destino à roupa e à correspondência. Vale usar o que você já tem: uma bandeja e um gancho podem resolver.\n\nQual cantinho acumula tudo na sua casa?\n\n#LarDaKel #OrganizaçãoDaCasa #CasaOrganizada #RotinaDoLar\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-entrada-sem-bagunca/carrossel/01.jpg",
+          "sha256": "44ca612a70853a8c65909502ffa8cc14bc14f33282d8e2673c203462fe1ebce7"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-entrada-sem-bagunca/carrossel/02.jpg",
+          "sha256": "811e435845dff354f6f8a6b8b3ea38629a1d8f1f13789f25cbdab485e5ecb898"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-entrada-sem-bagunca/carrossel/03.jpg",
+          "sha256": "679a33a762b2090de86b4822fdb113637e3efc82deb804be215693c11ecbc186"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-entrada-sem-bagunca/carrossel/04.jpg",
+          "sha256": "a91bed032001eaf46225ca30143917a43fdc37f0b662067a212fa09eb8ca68bc"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-entrada-sem-bagunca/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-1800-receita",
+      "scheduled_at": "2026-10-01T18:00:00-03:00",
+      "enabled": false,
+      "theme": "O jantar não precisa de reunião.",
+      "format": "CAROUSEL",
+      "caption": "Tem ovo e legumes? Já temos uma ideia para o jantar. 🥚\n\nPara 4 porções: 4 ovos, 1 cenoura pequena ralada, ½ abobrinha ralada e bem espremida, ½ xícara de queijo ralado, 1 colher (sopa) de azeite, sal e pimenta. Use parte do azeite para untar um refratário de 20 cm e misture o restante aos ingredientes. Asse em forno preaquecido a 180 °C por cerca de 25–30 minutos. O tempo varia: o centro precisa estar firme, sem ovo líquido.\n\nSalve para aquele dia em que decidir o jantar já parece trabalho demais!\n\n#LarDaKel #ReceitaFácil #OmeleteDeForno #JantarPrático\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-omelete-de-forno/carrossel/01.jpg",
+          "sha256": "24dd39c8f92142083d4b39d81c99f093438d92d3738b58b5e5fed8879c8c739e"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-omelete-de-forno/carrossel/02.jpg",
+          "sha256": "ba11c6dfc30bfcc1d38fc2297a4cc797131a50c3c81b64f6fcfa0171f374db1b"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-omelete-de-forno/carrossel/03.jpg",
+          "sha256": "531a4b9260aedea633c5462f553a8b050013e25df5d65cdfa71fc970fd36737c"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-omelete-de-forno/carrossel/04.jpg",
+          "sha256": "4ebc159b29a48e1803c4dc385ea323dc7cd54c4d908818dd1d456360a9039069"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-01-omelete-de-forno/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-0600-dica",
+      "scheduled_at": "2026-10-02T06:00:00-03:00",
+      "enabled": false,
+      "theme": "Pano de prato não é faz-tudo!",
+      "format": "CAROUSEL",
+      "caption": "Ele seca a mão, enxuga a louça, passa na bancada... calma, esse pano está acumulando funções! 😅\n\nSepare os panos por uso. Troque o pano de prato todos os dias e antes disso quando estiver sujo ou muito úmido. Lave e seque completamente antes de reutilizar. Para a bancada, siga o rótulo do produto adequado à superfície e não misture produtos.\n\nSalve e compartilhe com quem divide a cozinha com você.\n\n#LarDaKel #LimpezaDaCozinha #PanoDePrato #CuidadosComACasa\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pano-de-prato/carrossel/01.jpg",
+          "sha256": "ac8687fdcd06bf682e1c1896f897ee9142c51c144aa14c88f333ded3bf3fbd29"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pano-de-prato/carrossel/02.jpg",
+          "sha256": "eb2d5323d41896e363fc3243ec9f0254da89038d13b6c90bf4d04db3e6360a42"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pano-de-prato/carrossel/03.jpg",
+          "sha256": "f3337476bd45055a1f99c1beaffa5e25114cb0cc26d68ec826d1dc0322bf2a22"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pano-de-prato/carrossel/04.jpg",
+          "sha256": "dc59448c5f3fce6939b5a4546fd857659d205e1036d354f5d18043c753b9ff32"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pano-de-prato/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-1800-receita",
+      "scheduled_at": "2026-10-02T18:00:00-03:00",
+      "enabled": true,
+      "theme": "Sextou. O pão virou pizza!",
+      "format": "CAROUSEL",
+      "caption": "O pão de forma ganhou roupa de sexta-feira. 🍕\n\nRende 4 minipizzas: 4 fatias de pão, 4 colheres (sopa) de molho de tomate, 100 g de muçarela, 1 tomate pequeno em rodelas e orégano. Espalhe o molho, cubra com queijo e tomate, finalize com orégano e leve à assadeira. Forno preaquecido a 200 °C por 8–12 minutos, até derreter o queijo e dourar as bordas. Observe seu forno para não queimar o pão.\n\nQuem vai dividir esse lanche com você?\n\n#LarDaKel #LancheDeSexta #PizzaDePão #ReceitaFácil\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pizza-de-pao/carrossel/01.jpg",
+          "sha256": "2e8447602b5974a47a8a0838cc5964008079c7cfed0d81779ae31ff003f31968"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pizza-de-pao/carrossel/02.jpg",
+          "sha256": "926b6733743898d62a409ff0af589b174ffb7a9a4b9ed9b05bcf0314ffbaae0c"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pizza-de-pao/carrossel/03.jpg",
+          "sha256": "284854fdde9283f747139e0c6ffc725670a6a8985babfb9bfa97321541fd6a4f"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pizza-de-pao/carrossel/04.jpg",
+          "sha256": "27704bc43c0650b131de7e730cf0cbd8aebe59cada31a8f37d9bda75bb508351"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-02-pizza-de-pao/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-0600-dica",
+      "scheduled_at": "2026-10-03T06:00:00-03:00",
+      "enabled": true,
+      "theme": "Você compra ou coleciona macarrão?",
+      "format": "CAROUSEL",
+      "caption": "Às vezes a lista de compras está precisando de uma visita à própria despensa. 😂\n\nAgrupe por categoria e deixe à frente o que vence primeiro. Confira a validade; se transferir para potes, mantenha as informações de validade, lote e conservação da embalagem. Um pote bonito não aumenta a validade do alimento.\n\nAntes do mercado, confira o estoque e anote só o que falta. Qual item vive aparecendo em dobro aí?\n\n#LarDaKel #DespensaOrganizada #OrganizaçãoDaCozinha #ListaDeCompras\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-despensa-sem-duplicados/carrossel/01.jpg",
+          "sha256": "338cb87a5bccd6bb195f3799b27cdee2beb9248c594280beb2e36e7c258e46d4"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-despensa-sem-duplicados/carrossel/02.jpg",
+          "sha256": "7ebf731186099244cf05ba2c5443672e4084193b9c999319f46439f6052a2fe6"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-despensa-sem-duplicados/carrossel/03.jpg",
+          "sha256": "5371689300f4d63e70ff70bbe8bef7f0daf6c8cad47153875bee7ec46797a22a"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-despensa-sem-duplicados/carrossel/04.jpg",
+          "sha256": "b37587198537bae94b9082bfd350e6d5d8ae51d4573226a9af928a3b14b59b11"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-despensa-sem-duplicados/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-1800-receita",
+      "scheduled_at": "2026-10-03T18:00:00-03:00",
+      "enabled": true,
+      "theme": "Sábado pede doce. Não uma missão.",
+      "format": "CAROUSEL",
+      "caption": "A vontade de doce chegou, mas a de lavar louça ficou de folga. 🍋\n\nBata 395 g de leite condensado, 200 g de creme de leite e 120 ml de suco de limão por 1–2 minutos, até ficar liso. Divida em 6 taças pequenas, cubra e leve à geladeira por pelo menos 3 horas, até firmar. Mantenha refrigerado até servir. Raspas de limão são opcionais; use somente a parte colorida da casca bem lavada.\n\nPrepare antes para a sobremesa estar pronta à noite. Salve para fazer no próximo sábado!\n\n#LarDaKel #SobremesaFácil #MousseDeLimão #DoceDeSábado\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-mousse-de-limao/carrossel/01.jpg",
+          "sha256": "26a7deff6bbc86b4e2d4a25cb06c556c7501308649fb5c76e3f315216c0cc674"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-mousse-de-limao/carrossel/02.jpg",
+          "sha256": "fbb34db4ac06114ed236fb7cd7b3b424315ce9abe505c8cceca51ecb1095c884"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-mousse-de-limao/carrossel/03.jpg",
+          "sha256": "e20ed25c626e22de38851e065a06b82f0a3fb09deaf84698398b919cc803931e"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-mousse-de-limao/carrossel/04.jpg",
+          "sha256": "31c62c3297f37ebd6bbe19eca81ad906409b20d0b2b8cb56b5b12b70e3016a49"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-03-mousse-de-limao/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-0600-dica",
+      "scheduled_at": "2026-10-04T06:00:00-03:00",
+      "enabled": true,
+      "theme": "Cadê a fronha que estava aqui?",
+      "format": "CAROUSEL",
+      "caption": "Trocar a roupa de cama não precisava incluir uma caça à fronha. 😂\n\nJunte as peças do mesmo jogo, dobre em tamanhos parecidos e use uma das fronhas para guardar o conjunto. Separe por tamanho de cama e mantenha os jogos mais usados ao alcance. Guarde somente tecidos totalmente secos.\n\nSalve para testar na próxima troca!\n\n#LarDaKel #RoupaDeCama #OrganizaçãoDoLar #ArmárioOrganizado\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-jogo-de-cama/carrossel/01.jpg",
+          "sha256": "993c8f1ba664f05d50c5ec1993b6cdb3f1f139cd930f3410a15c7263d90c6033"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-jogo-de-cama/carrossel/02.jpg",
+          "sha256": "72f2ff47a5b226dd70894b1c15e82c82507508fed4cdfcde2aa571c5d12772ab"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-jogo-de-cama/carrossel/03.jpg",
+          "sha256": "ee816095ecbe21b204bf8aa60ed08b1186dfbc52193ca1551e12d3cce5bb043d"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-jogo-de-cama/carrossel/04.jpg",
+          "sha256": "72c2a6e87908222a338c7f02c536c5a36e48b53bbc97d00b612a4c5e00b44ece"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-jogo-de-cama/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-1800-receita",
+      "scheduled_at": "2026-10-04T18:00:00-03:00",
+      "enabled": true,
+      "theme": "Domingo à noite merece uma panela a menos.",
+      "format": "CAROUSEL",
+      "caption": "Jantar de domingo com cara de abraço e poucos ingredientes. 💛\n\nPara 2 porções, hidrate 1 xícara de flocão com ½ xícara de água e ¼ colher (chá) de sal por 10 minutos. Junte ½ xícara de seleta de legumes já cozida e escorrida. Coloque sem apertar na cuscuzeira, com água abaixo do cesto. Tampe e cozinhe por 10–15 minutos depois que começar a sair vapor, até os flocos estarem macios. Retire com cuidado e misture 1 colher (sopa) de manteiga. Siga também as orientações de hidratação da embalagem do seu flocão.\n\nSalve para o próximo jantar sem complicação!\n\n#LarDaKel #CuscuzDeMilho #JantarFácil #ReceitasDoLar\n",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-cuscuz-com-legumes/carrossel/01.jpg",
+          "sha256": "c8f627ac053a92161426b8090fe79a8591d58aacdbf93f79c737e0f3f0d5e695"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-cuscuz-com-legumes/carrossel/02.jpg",
+          "sha256": "a6128b2dc2a811c29c5e27a31127d72e5752bd4075a60d789f2c52235998cff6"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-cuscuz-com-legumes/carrossel/03.jpg",
+          "sha256": "3ce716c4c64d4cff1749a63169faccaeb641796b837efdeff1d95c39296328cf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-cuscuz-com-legumes/carrossel/04.jpg",
+          "sha256": "e06415b0e5b28c3348ca4d11e6a4c992760f8a2eb57a2cd3721ec62c4cb27f7b"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kcampelo/lardakel1302_posts/485183783957949bbf75627b41ee7e05cefd4e77/posts/2026-10-04-cuscuz-com-legumes/carrossel/05.jpg",
+          "sha256": "1c60f6bccc592ed35b0808f547fbd21e01d135b72d610db026326a4a7454f648"
+        }
+      ]
+    }
+  ],
+  "automation_id": "lar-da-kel-publicar-s-06h-e-18h",
+  "executor": "Codex heartbeat local"
+}
